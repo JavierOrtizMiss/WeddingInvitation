@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=MonteCarlo&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+* {
+  font-family: "Montserrat", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #FFFEE8;
+  justify-content: center;
+  align-items: center;
+  display: block;
+}
+
+.framepage img {
+  width: 100%;
+  height: 100%;
+}
+
+.framenames img {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+}
+
+.framenamestext{
+  position: relative;
+  text-align: center;
+  font-size: 5vw;
+  line-height: 1.1;
+}
+
+.phrase p{
+  font-size: 4vw;
+}
+
+.fiancée h1, .separator h1, .fiancé h1{
+  font-family: "MonteCarlo";
+}
+
+.date p {
+  font-size: 4vw;
+  margin-top: 1rem;
+}
+
+
+
+
